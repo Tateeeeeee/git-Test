@@ -3,7 +3,7 @@ hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
-hello git! hello atguigu!
+hello git! hello atguigu! 在Master测试内容冲突，输入内容
 hello git! hello atguigu!
 hello git! hello atguigu! 22222222
 hello git! hello atguigu!
