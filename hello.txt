@@ -3,8 +3,8 @@ hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
-hello git! hello atguigu!
+hello git! hello atguigu! master在这里写内容了，hot-fix也在这里写内容
 hello git! hello atguigu!
 hello git! hello atguigu! 22222222
 hello git! hello atguigu! hot-fix测试冲突内容
-hello git! hello atguigu! 这里修改hot-fix分支的内容
+hello git! hello atguigu! 
